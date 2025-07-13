@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Council-of-Characters/static/css/main.e269de6b.css",
+    "main.js": "/Council-of-Characters/static/js/main.c1d0fceb.js",
+    "static/media/spacebg.jpg": "/Council-of-Characters/static/media/spacebg.6347b34cd3a134be5b99.jpg",
+    "static/media/logo.png": "/Council-of-Characters/static/media/logo.f9503962df89eb181505.png",
+    "static/media/spinner.gif": "/Council-of-Characters/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "index.html": "/Council-of-Characters/index.html",
+    "main.e269de6b.css.map": "/Council-of-Characters/static/css/main.e269de6b.css.map",
+    "main.c1d0fceb.js.map": "/Council-of-Characters/static/js/main.c1d0fceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e269de6b.css",
+    "static/js/main.c1d0fceb.js"
+  ]
+}
