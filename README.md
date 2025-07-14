@@ -1,3 +1,20 @@
+Council of Characters is a React-based web application that allows users to explore characters from the Rick and Morty universe. 
+
+Users can:
+- Instantly search by name or keyword
+- Load more characters dynamically in sets of 40
+- View character details like origin, species, and status
+- Enjoy a sleek UI with custom styling and animated flip cards
+
+🔗 **Live site:** [https://nehaal-s.github.io/Council-of-Characters/](https://nehaal-s.github.io/Council-of-Characters/)
+
+## 🚀 Technologies Used
+- React.js
+- Axios
+- CSS Grid & Flexbox
+- Rick and Morty API
+- GitHub Pages for deployment
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
