@@ -85,6 +85,7 @@ function App() {
     <div className="container">
       <div className="top-section">
         <Header />
+        <h1 className="site-title">Council of Characters</h1>
       </div>
       <Search getQuery={(q) => setQuery(q)} />
       <CharacterGrid isLoading={isLoading} items={characters} />
