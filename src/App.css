@@ -41,11 +41,21 @@ a {
 
 .site-title {
   font-family: 'Get Schwifty', sans-serif;
-  color: #00b5cc; /* Rick's neon blue */
+  font-size: 3.2rem;
+  color: #39ff14; /* neon greenish-blue like the logo */
   text-align: center;
-  font-size: 3rem;
   margin-top: 10px;
-  text-shadow: 2px 2px 0 #000, 4px 4px 0 #00b5cc;
+  margin-bottom: 30px;
+
+  /* Outline */
+  -webkit-text-stroke: 1px #000;
+
+  /* Glow effect */
+  text-shadow:
+    0 0 5px #39ff14,
+    0 0 10px #39ff14,
+    0 0 20px #00ffff,
+    2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 
 .btn {
