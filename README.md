@@ -1,4 +1,5 @@
-Council of Characters is a React-based web application that allows users to explore characters from the Rick and Morty universe. 
+Council of Characters is a sleek and interactive React app that lets users explore, search, and load characters from the Rick and Morty universe.
+The web app fetches and displays characters from the Rick and Morty API, complete with search, flip-card animations, and lazy loading — styled with a custom theme inspired by the show.
 
 Users can:
 - Instantly search by name or keyword
